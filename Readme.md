@@ -14,6 +14,7 @@ Kassadin
 Khazix  
 Kindred  
 Kogmaw  
+Lucian
 Morgana  
 Rengar  
 Tryndamere   
