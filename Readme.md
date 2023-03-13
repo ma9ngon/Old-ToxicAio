@@ -2,7 +2,7 @@ ToxicAio For EnsoulSharp
 
 Credits To Lyrdum For the menu Layout  
 Credits To Kurisu For His CC Spells lib  
-ToxicAio Discord: https://discord.gg/P9TmC3BwTt
+ToxicAio Discord: soon
 
 Currently Supported champions:
 
